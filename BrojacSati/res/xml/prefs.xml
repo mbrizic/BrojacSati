@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <PreferenceCategory
+        android:title="@string/satnica_title" android:key="@string/naslovPrefsa">
+        <EditTextPreference android:key="redovni" android:title="Redovna satnica" android:defaultValue="20" android:inputType="number" android:summary="Inače je 20 kn"/>
+    	<EditTextPreference android:key="nocni" android:title="Noćna satnica" android:defaultValue="25" android:inputType="number" android:summary="Inače 25 kn"/>
+    	<EditTextPreference android:key="nedjelja" android:title="Satnica nedjeljom" android:defaultValue="30" android:inputType="number" android:summary="Inače 30 kn"/>
+    	<EditTextPreference android:defaultValue="40" android:title="Satnica za praznike" android:key="blagdan" android:inputType="number" android:summary="Inače 40 kn"/> 
+    </PreferenceCategory>
+    
+    <PreferenceCategory
+        android:title="@string/settings_misc" android:key="@string/settings_misc">
+        <EditTextPreference android:key="valuta" android:title="Valuta" android:defaultValue="kn"/>
+    	
+    </PreferenceCategory>
+    
+
+</PreferenceScreen>

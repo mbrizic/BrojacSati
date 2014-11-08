@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.brojacsati.MainActivity" >
+    
+    <item
+        android:id="@+id/detaljno"
+        android:orderInCategory="100"
+        android:title="@string/detaljno"
+        app:showAsAction="never"/>
+    
+    <item
+        android:id="@+id/povijest"
+        android:orderInCategory="100"
+        android:title="@string/povijest"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never"/>
+    
+    
+	
+	<item
+        android:id="@+id/oAplikaciji"
+        android:orderInCategory="100"
+        android:title="@string/oAplikaciji"
+        app:showAsAction="never"/>
+
+	
+	
+</menu>

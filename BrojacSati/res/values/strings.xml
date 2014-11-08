@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Brojač sati</string>
+    <string name="author_name">Mario Brižić</string>
+    <string name="author_mail">brizic.mario@gmail.com</string>
+    <string name="author_home">http://www.pmfst.hr/~mbrizic/</string>
+    
+    <string name="action_settings">Postavke</string>
+    <string name="title_activity_help">O aplikaciji</string>
+    <string name="title_activity_statistika">Mjesečni izvještaji</string>
+    <string name="detaljno">Mjesečni izvještaji</string>
+    <string name="oAplikaciji">O aplikaciji</string>
+    <string name="title_activity_log">Zapis unosa</string>
+	<string name="povijest">Povijest unosa</string>
+	<string name="isprazni_bazu">Izbriši sve unose</string>
+	
+	<string name="satnica_title">Namjesti satnice</string>
+	<string name="naslovPrefsa">Postavke</string>	
+	<string name="currency">Valuta</string>	
+	<string name="settings_misc">Ostale postavke</string>
+	
+	<string name="main_redovni">Redovni:</string>
+	<string name="main_nocna">Noćna:</string>
+	<string name="main_nedjelja">Nedjelja:</string>
+	<string name="main_blagdan">Praznik:</string>
+	<string name="main_dodaj">Dodaj</string>
+	<string name="main_trenutna_zarada">Trenutna zarada:</string>
+	<string name="main_izvjestaj">Izvještaj</string>
+	<string name="main_svi_unosi">Svi unosi</string>
+	
+	
+	<string name="about_version">v0.9</string>
+	<string name="about_year">2014</string>
+	<string name="about_nove_verzije">Nove verzije nalazit će se na:</string>
+	
+</resources>
